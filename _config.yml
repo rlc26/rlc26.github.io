@@ -1,0 +1,31 @@
+title: Danse latine 
+description: Description des danses latines SBK
+theme: jekyll-theme-minimal
+url: "rlc26.github.io"
+
+dance_styles:
+  - name: "Salsa"
+    description: "La salsa est une danse rythmée d'origine cubaine, influencée par les styles de jazz et de musique latine. Elle se danse généralement en couple, avec des mouvements rapides et une forte connexion au rythme de la musique."
+    origin: "Cuba"
+    characteristics:
+      - "Pas rapides et mouvements de hanches"
+      - "Connexions fermées et ouvertes"
+      - "Musique en tempo rapide"
+
+  - name: "Bachata"
+    description: "La bachata est une danse originaire de la République dominicaine, caractérisée par ses mouvements fluides et romantiques. Elle est souvent reconnue pour ses pas de base simples et la connexion étroite entre les partenaires."
+    origin: "République dominicaine"
+    characteristics:
+      - "Mouvements de hanches subtils"
+      - "Connexions proches"
+      - "Musique lente à modérée avec des thèmes romantiques"
+
+  - name: "Kizomba"
+    description: "Originaire d'Angola, la kizomba est une danse sensuelle et fluide, qui se distingue par une connexion proche et des mouvements doux. La musique est influencée par le semba angolais et des styles plus modernes."
+    origin: "Angola"
+    characteristics:
+      - "Pas lents et fluides"
+      - "Connexion très proche entre partenaires"
+      - "Musique lente et rythmée, influencée par le semba et le zouk"
+
+
